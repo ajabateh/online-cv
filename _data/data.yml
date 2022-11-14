@@ -7,23 +7,23 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Ansu K. Jabateh
+    tagline: 
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    email: nouhanjabateh@gmail.com
+    phone: +231 777298772
+    timezone: GMT
+    citizenship:Liberia 
+    website: smartchance.co
+    linkedin: 
+    xing: 
+    github: ajabateh
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@Jabateh1K'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -38,16 +38,16 @@ sidebar:
         - idiom: French
           level: Professional
 
-        - idiom: Spanish
-          level: Professional
+        
+       
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Jogging 
           link:
 
-        - item: Snowboarding
+        - item: Reading
           link:
 
         - item: Cooking
