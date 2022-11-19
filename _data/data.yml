@@ -76,17 +76,16 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: Diploma in Information Management technology  
+        university: International Institute of Computer studies and Manpower Development
+        time: 2011 - 2012
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Courses covered:
+            - Office Suit
+            - Database Management
+            - HTML
+            - CSS
+            - Markdown 
 experiences:
     title: Experiences
     info:
