@@ -111,6 +111,7 @@ projects:
  .
     assignments:
       - title: EasyLearn
+        links
         tagline: "A platform for creating and managing online learning envirovement."
 
       - title: Emaas
