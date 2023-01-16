@@ -85,6 +85,7 @@ education:
             - HTML
             - CSS
             - Markdown 
+            
 experiences:
     title: Experiences
     info:
@@ -92,13 +93,12 @@ experiences:
         time: November 1, 2022 - December 31, 2022
         company: LISGIS, Liberia 
         details: |
-          Ensures that the survey or census data is collected accurately, efficiently, and within the timeframe.
-          
+          Ensures that the survey or census data is collected accurately, efficiently, and within the timeframe.     
       - role: Manager
         time: 2021- present 
         company: SmartChance, Liberia 
         details: |
-           communicate with stakeholders, including customers, investors, and partners, to ensure that they are informed about the startup's IT progress and direction.
+           communicate with stakeholders, including customers, investors, and partners, to ensure that they are informed about Smartchance's progress and direction.
           
       - role: Product Manager
         time: 2017 - 2019
@@ -113,27 +113,13 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: EasyLearn
+        tagline: "A platform for creating and managing online learning envirovement."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-
+      - title: Emaas
+        tagline: "EMAAS or (Electronic Mass Automation Appraisal System) is a system designed to automate property appraisal procedures. 
+        Until now, property appraisal has been done manually using spreadsheets. This traditional approach is inefficient and time consuming. 
+        EMAAS is here to change this paradigm. The primary goal of EMAAS is to use technology to automate, simplify and speed up the procedure of property appraisal.
 
 skills:
     title: Skills &amp; Proficiency
