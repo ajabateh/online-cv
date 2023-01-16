@@ -108,11 +108,9 @@ experiences:
           
 projects:
     title: Projects
- .
     assignments:
       - title: EasyLearn
-        links
-        tagline: "A platform for creating and managing online learning envirovement."
+        tagline: A platform for creating and managing online learning envirovement.
 
       - title: Emaas
         tagline: EMAAS or (Electronic Mass Automation Appraisal System) is a system designed to automate property appraisal procedures.
@@ -121,21 +119,8 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Microsoft office suite
+        level: 100%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+     
 
