@@ -57,7 +57,7 @@ career-profile:
     title: Career Profile
     summary: |
       I have a bachelor degree in Economics and Management. I have had extensive experience serving in several managemerial positions.
-      Currently, I am a co-founded and manager of an IT company, specilized in the building mobile and web application. My experience in different
+      Currently, I am a co-founder and manager of an IT startup company, specilized in the building mobile and web application. My experience in different
       sectors have given me broad knowledge in wide range of areas. I am always willing to learn ideas and open to new opportunites. I am hardworking,
       highly motivated person, passsionate about solving problems. 
       
@@ -92,39 +92,20 @@ experiences:
         time: November 1, 2022 - December 31, 2022
         company: LISGIS, Liberia 
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          Ensures that the survey or census data is collected accurately, efficiently, and within the timeframe.
+          
       - role: Manager
         time: 2021- present 
         company: SmartChance, Liberia 
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+           communicate with stakeholders, including customers, investors, and partners, to ensure that they are informed about the startup's IT progress and direction.
+          
       - role: Product Manager
         time: 2017 - 2019
         company: Tamma, Liberia 
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Ensures that the product meets customer needs and business objectives, and drives the product to success in the market.
+          
 projects:
     title: Projects
     intro: >
