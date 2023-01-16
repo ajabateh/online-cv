@@ -108,18 +108,13 @@ experiences:
           
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+ .
     assignments:
       - title: EasyLearn
         tagline: "A platform for creating and managing online learning envirovement."
 
       - title: Emaas
-        tagline: "EMAAS or (Electronic Mass Automation Appraisal System) is a system designed to automate property appraisal procedures. 
-        Until now, property appraisal has been done manually using spreadsheets. This traditional approach is inefficient and time consuming. 
-        EMAAS is here to change this paradigm. The primary goal of EMAAS is to use technology to automate, simplify and speed up the procedure of property appraisal.
+        tagline: EMAAS or (Electronic Mass Automation Appraisal System) is a system designed to automate property appraisal procedures.
 
 skills:
     title: Skills &amp; Proficiency
