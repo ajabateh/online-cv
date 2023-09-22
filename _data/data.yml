@@ -85,6 +85,10 @@ education:
             - HTML
             - CSS
             - Markdown 
+    - degree: High School 
+      university: United Methodist University 
+      time: 2010 - 2012
+        
             
 experiences:
     title: Experiences
@@ -113,7 +117,8 @@ projects:
         tagline: A platform for creating and managing online learning envirovement.
 
       - title: Emaas
-        tagline: EMAAS or (Electronic Mass Automation Appraisal System) is a system designed to automate property appraisal procedures.
+        tagline: EMAAS or (Electronic Mass Automation Appraisal System) is a system designed to automate property appraisal procedures. Until now, property appraisal has been done manually using spreadsheets. 
+        This traditional approach is inefficient and time consuming. EMAAS is here to change this paradigm. The primary goal of EMAAS is to use technology to automate, simplify and speed up the procedure of property appraisal.
 
 skills:
     title: Skills &amp; Proficiency
@@ -121,6 +126,22 @@ skills:
     toolset:
       - name: Microsoft office suite
         level: 100%
+     - name: Data Analysis (Excel, SQL)
+        level: 90%
+     - name: Database Management (MySQL)
+        level: 90%
+     - name: Project Management
+        level: 90%
+     - name: Communication (Verbal and Written)
+        level: 90%
+     - name: Teamwork and Collaboration 
+        level: 90%
+     - name: Time Management 
+        level: 90%
+        
+        
+        
+        
 
      
 
