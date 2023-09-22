@@ -85,9 +85,9 @@ education:
             - HTML
             - CSS
             - Markdown 
-    - degree: High School 
-      university: United Methodist University 
-      time: 2010 - 2012
+      - degree: High School 
+        university: United Methodist University 
+        time: 2010 - 2012
         
             
 experiences:
@@ -126,17 +126,17 @@ skills:
     toolset:
       - name: Microsoft office suite
         level: 100%
-     - name: Data Analysis (Excel, SQL)
+      - name: Data Analysis (Excel, SQL)
         level: 90%
-     - name: Database Management (MySQL)
+      - name: Database Management (MySQL)
         level: 90%
-     - name: Project Management
+      - name: Project Management
         level: 90%
-     - name: Communication (Verbal and Written)
+      - name: Communication (Verbal and Written)
         level: 90%
-     - name: Teamwork and Collaboration 
+      - name: Teamwork and Collaboration 
         level: 90%
-     - name: Time Management 
+      - name: Time Management 
         level: 90%
         
         
